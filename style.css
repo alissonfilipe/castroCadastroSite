@@ -1,0 +1,44 @@
+#form {
+    position: relative;
+    top: 120px;
+    border: 3px solid rgb(102, 105, 53);
+    padding: 12px;
+    width: 600px;
+    left: 360px;
+    border-radius: 33px;
+}
+
+
+.texto {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(20, 12, 39);
+
+}
+
+.input {
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+    border: 2px solid rgb(210, 163, 255);
+    background-color: rgb(213, 213, 255);
+
+}
+
+.input:focus {
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+    background-color: rgb(218, 240, 240);
+}
+
+
+#Atualizar {
+    font-size: larger;
+    color: aliceblue;
+    background-color: rgb(135, 187, 170);
+    border-radius: 30px;
+    height: 30px;
+    width: 160px;
+    cursor: pointer;
+
+}
